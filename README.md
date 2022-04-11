@@ -20,7 +20,7 @@ Deployed Application here: [Book Club](https://book-club-ui.herokuapp.com/)
 
 ## Overview <a name="overview"></a>
 
-Book Club is a Mod 3 project at the Turing School of Software and Design that was built with `create-react-app` and tested using Cypress. React, React Router and data pulled from a backend server we created were utilized to display a dashboard of books. The user can select a single book by clicking on the 'Learn More' button to get more information about it. Additionally, the user will find Book Club to be a responsively designed application that they may use on many different screens.
+Book Club is a project at the Turing School of Software and Design that was built with `create-react-app` and tested using Cypress. React, React Router and data pulled from a backend server we created were utilized to display a dashboard of books. The user can select a single book by clicking on the 'Learn More' button to get more information about it. Additionally, the user will find Book Club to be a responsively designed application that they may use on many different screens.
 
 We created a backend for this project to satisfy the requirements of our Stretch Tech Project. We were given an 8 day timeframe to learn and implement new technologies such as Express, Node, PostgresSQL, Knex to build a backend server and database. 
 
